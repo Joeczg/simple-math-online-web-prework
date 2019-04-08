@@ -16,9 +16,11 @@ end
 
 def modulo(num1, num2)
   if num1<=num2
-    remain=end
-
-def square_root(num)
+    
+    remain=0
+    
+  end
+    def square_root(num)
 end
 
 def order_of_operation(num1, num2, num3, num4)
