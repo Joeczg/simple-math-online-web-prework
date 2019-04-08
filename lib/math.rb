@@ -15,8 +15,8 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  
-end
+  if num1<=num2
+    remain=end
 
 def square_root(num)
 end
